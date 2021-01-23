@@ -22,8 +22,8 @@
   </h3>
 </div>
 
-#### Screenshot
-![ineterior design](https://user-images.githubusercontent.com/64626034/105571814-b5610500-5d85-11eb-8855-f2206a20e04e.PNG)
+### Screenshot
+![ineterior design](https://user-images.githubusercontent.com/64626034/105571899-33251080-5d86-11eb-8ef8-c9945425dcb0.PNG)
 
 
 ### Built With
