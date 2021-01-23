@@ -22,11 +22,11 @@
   </h3>
 </div>
 
-### Screenshot
+## Screenshot
 ![ineterior design](https://user-images.githubusercontent.com/64626034/105571899-33251080-5d86-11eb-8ef8-c9945425dcb0.PNG)
 
 
-### Built With
+## Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
